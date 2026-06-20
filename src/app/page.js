@@ -1,10 +1,10 @@
 export default function Home() {
   return (
     <div style={styles.page}>
-      <h1 style={styles.title}>Decision Memory Engine</h1>
+      <h1 style={styles.title}>Iiucidium</h1>
 
       <p style={styles.subtitle}>
-        AI-powered decision analysis system
+        AI-powered decision tracking system
       </p>
 
       <div style={styles.grid}>
